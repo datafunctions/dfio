@@ -1,4 +1,4 @@
-# datafunctionsio
+# datafunctions input/output (dfio)
 
 This package simplifies a number of core functions associated with building simple, scalable SQL-based data transformation pipelines.
 
