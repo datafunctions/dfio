@@ -6,14 +6,14 @@ README = (HERE / "README.md").read_text()
 setup(
   name="dfio",
   packages=["dfio"],
-  version="0.0.2",
+  version="0.0.3",
   description="",
   long_description=README,
   long_description_content_type="text/markdown",
   author="Jim Barlow",
   author_email="jim@beepbeep.technology",
   license='Apache License 2.0',
-  download_url='https://github.com/datafunctions/dfio/archive/0.0.1.tar.gz',
+  download_url='https://github.com/datafunctions/dfio/archive/0.0.3.tar.gz',
   zip_safe=False,
   install_requires=
   [
