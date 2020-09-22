@@ -13,7 +13,7 @@ setup(
   author="Jim Barlow",
   author_email="jim@beepbeep.technology",
   license='Apache License 2.0',
-  download_url='https://github.com/datafunctions/dfio/archive/0.0.5.tar.gz',
+  download_url='https://github.com/datafunctions/dfio/archive/0.0.6.tar.gz',
   zip_safe=False,
   install_requires=
   [
